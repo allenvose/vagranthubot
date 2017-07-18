@@ -14,4 +14,4 @@ command -v yo &>/dev/null ||{
 command -v generator-hubot &>/dev/null ||{
 	npm install -g generator-hubot
 }
-mkdir /home/vagrant/myhubot
+mkdir /vagrant/myhubot
